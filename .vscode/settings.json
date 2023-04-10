@@ -1,0 +1,9 @@
+{
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "typescript.enablePromptUseWorkspaceTsdk": true,
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#12350B",
+    "titleBar.activeBackground": "#194A10",
+    "titleBar.activeForeground": "#F6FDF4"
+  }
+}
